@@ -114,17 +114,14 @@ p {
     color: #ffffff;
 } 
 
-
 .section-main img {
     max-height: 200px;
 } 
-
 
 .section-main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 } 
-
 
 .footer {
     padding: 30px;
@@ -132,7 +129,6 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 } 
-
 
 .footer h2 {
     font-size: 20px;
